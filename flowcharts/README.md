@@ -1,0 +1,1 @@
+## Flowchart for the user registration of the User Registration process.
